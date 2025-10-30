@@ -24,7 +24,7 @@
 * 프로젝트 4: [Access Control 원리 및 취약점 분석](Broken-Access-Control/README.md)
 * 프로젝트 5: [Authentication 원리 및 취약점 분석](Broken-Authentication/theory)
 * 프로젝트 6: [Directory Traversal 원리 및 취약점 분석](Directory-Traversal/theory)
-* 프로젝트 7: [File Upload 원리 및 취약점 분석](File-Upload/theory)
+* 프로젝트 7: [File Upload 원리 및 취약점 분석](File-Upload-Vulnerabilities/theory)
 * 프로젝트 8: [Business Logic 원리 및 취약점 분석](Business-Logic-Vulnerabilities/theory)
 * 프로젝트 9: [Clickjacking 원리 및 취약점 분석](Clickjacking/theory)
 * 프로젝트 10: [Command Injection 원리 및 취약점 분석](Command-Injection/theory)
