@@ -18,7 +18,7 @@
 
 ## 3. 프로젝트 및 분석 (Projects & Analysis)
 
-* **프로젝트 1: [SQL Injection 원리 및 취약점 분석]** (penetration-testing-portfolio/SQL-Injection)
+* **프로젝트 1: [SQL Injection 원리 및 취약점 분석]** (penetration-testing-portfolio/SQL-Injection/theory)
 * **프로젝트 2: [XSS 원리 및 취약점 분석]** (penetration-testing-portfolio/XSS)
 * **프로젝트 3: [CSRF 원리 및 취약점 분석]** (penetration-testing-portfolio/CSRF)
 * **프로젝트 4: [Access Control 원리 및 취약점 분석]** (penetration-testing-portfolio/Access-Control)
